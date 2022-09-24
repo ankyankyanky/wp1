@@ -29,7 +29,7 @@
 See Dockerfile & docker-compose
 ```
 docker system prune // remove all persistence 
-eocker-compose build
+docker-compose build
 docker-compose up
 ```
 
